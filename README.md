@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=27&pause=1000&color=0031FF&center=true&vCenter=true&multiline=true&width=435&lines=Hello+my+name+is+Tiago+Santos;Welcome+to+my+GitHub!!!)](https://git.io/typing-svg)
 
-- 🧑‍💼 Hoje trabalho como Suporte Técnico
-- 📚 Estudante do curso Sistemas de Informação 6/8
+- 💼 I currently work as a technical support
+- 📚 Student of the Information Systems course 7/8
 
 <div align= "left">
   <a href="https://github.com/tiagosts99"></a>
