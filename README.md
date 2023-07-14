@@ -1,8 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=27&pause=1000&color=0031FF&center=true&vCenter=true&multiline=true&width=435&lines=Hello+my+name+is+Tiago+Santos;Welcome+to+my+GitHub!!!)](https://git.io/typing-svg)
 
-- 💼 I currently work as a technical support
-- 📚 Student of the Information Systems course 7/8
+- 💼 Current job: technical support
+- 📚 Academic Background: Information Systems Course 8/8
+- 🪪 Age: 23 years old
 
+Software development enthusiast looking to join this area. Despite having no previous professional experience, she has a solid academic background through the Information Systems course.
+
+
+- 🧑🏻‍💼Professional goal: I'm looking to get a job opportunity in the field of software development in order to gain hands-on experience and improve my technical skills. The focus is on applying theoretical knowledge in real projects, collaborating in development teams and continuing to learn and evolve professionally.
+ 
 <div align= "left">
   <a href="https://github.com/tiagosts99"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagosts99&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -27,5 +33,4 @@
 
 ##
  
- ![Snake animation](https://github.com/tiagosts99/tiagosts99/blob/output/github-contribution-grid-snake.svg)
 
