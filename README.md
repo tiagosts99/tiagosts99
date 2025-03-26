@@ -2,7 +2,7 @@
 
 - 💼 Current job: technical support
 - 📚 Academic Background: Information Systems Course 8/8
-- 🪪 Age: 23 years old
+- 🪪 Age: 25 years old
 
 Software development enthusiast looking to join this area. Despite having no previous professional experience, she has a solid academic background through the Information Systems course.
 
