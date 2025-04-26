@@ -2,9 +2,10 @@
 
 - 💼 Current job: technical support
 - 📚 Academic Background: Information Systems Course 8/8
+- 📚 PósTech Full Stack Development
 - 🪪 Age: 25 years old
 
-Software development enthusiast looking to join this area. Despite having no previous professional experience, she has a solid academic background through the Information Systems course.
+Software development  looking to join this area. I have solid experience in Windows and Linux environments, in addition to active participation in process optimization initiatives and information security policies. My background includes a bachelor's degree in information systems and currently a postgraduate degree in Full Stack, where I specialize in the technologies most requested by the market - HTML, CSS, JavaScript, React, Python, Git, Restful APIs, among others. My goal is to become a versatile professional, capable of working in both Frontend and Backend, with a product vision and a focus on delivering value. I am driven by challenges, continuous learning and the desire to build efficient, scalable and user-centric solutions. I seek an environment where I can evolve together with the team and contribute significantly to the company's results.
 
 
 - 🧑🏻‍💼Professional goal: I'm looking to get a job opportunity in the field of software development in order to gain hands-on experience and improve my technical skills. The focus is on applying theoretical knowledge in real projects, collaborating in development teams and continuing to learn and evolve professionally.
